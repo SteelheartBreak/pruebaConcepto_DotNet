@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pLyzTAEAAplUzyOH+zWWYDr/YHCEZ3MAyETWRZeG9RE=",
+  "Source": "DotNetMicroservice",
+  "BasePath": "_content/DotNetMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

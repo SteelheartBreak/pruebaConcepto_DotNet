@@ -1,0 +1,6 @@
+@DotNetMicroservice_HostAddress = http://localhost:5073
+
+GET {{DotNetMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
